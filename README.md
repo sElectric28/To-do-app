@@ -1,5 +1,5 @@
 # To-do-app
-![Screenshot here](/calculatorScreenshot.png)
+![Screenshot here](/Todoapp.png)
 
 ## How to use:
 1. Write something in the input text (an alert will appear if there is nothing in the input text field)
